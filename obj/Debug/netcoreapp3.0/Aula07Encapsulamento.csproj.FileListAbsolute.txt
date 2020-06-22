@@ -1,0 +1,11 @@
+C:\Users\senai\Desktop\Aula07Encapsulamento\bin\Debug\netcoreapp3.0\Aula07Encapsulamento.exe
+C:\Users\senai\Desktop\Aula07Encapsulamento\bin\Debug\netcoreapp3.0\Aula07Encapsulamento.deps.json
+C:\Users\senai\Desktop\Aula07Encapsulamento\bin\Debug\netcoreapp3.0\Aula07Encapsulamento.runtimeconfig.json
+C:\Users\senai\Desktop\Aula07Encapsulamento\bin\Debug\netcoreapp3.0\Aula07Encapsulamento.runtimeconfig.dev.json
+C:\Users\senai\Desktop\Aula07Encapsulamento\bin\Debug\netcoreapp3.0\Aula07Encapsulamento.dll
+C:\Users\senai\Desktop\Aula07Encapsulamento\bin\Debug\netcoreapp3.0\Aula07Encapsulamento.pdb
+C:\Users\senai\Desktop\Aula07Encapsulamento\obj\Debug\netcoreapp3.0\Aula07Encapsulamento.csprojAssemblyReference.cache
+C:\Users\senai\Desktop\Aula07Encapsulamento\obj\Debug\netcoreapp3.0\Aula07Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\senai\Desktop\Aula07Encapsulamento\obj\Debug\netcoreapp3.0\Aula07Encapsulamento.AssemblyInfo.cs
+C:\Users\senai\Desktop\Aula07Encapsulamento\obj\Debug\netcoreapp3.0\Aula07Encapsulamento.dll
+C:\Users\senai\Desktop\Aula07Encapsulamento\obj\Debug\netcoreapp3.0\Aula07Encapsulamento.pdb
